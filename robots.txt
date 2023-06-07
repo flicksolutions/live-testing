@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://flicksolutions.github.io/live-testing/sitemap.xml
+Sitemap: https://live-testing.flick.solutions/sitemap.xml
